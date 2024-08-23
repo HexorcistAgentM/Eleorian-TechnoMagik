@@ -4,7 +4,7 @@
 
 ## Installation
 
-To install and run TekMagik, you'll need Python and Pygame installed on your machine.
+To install and run TekMagik, you'll need Python, Pygame, and Markovify installed on your machine.
 
 1. Clone the repository:
     ```bash
