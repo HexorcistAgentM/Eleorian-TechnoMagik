@@ -1,6 +1,6 @@
-# TekMagik: Digital Crossroads
+# Digital Crossroads
 
-**TekMagik** is an open-source Python program designed to create a virtual altar dedicated to Eleora, the Goddess of the Digital Crossroads. The program merges the mystical with the technological, providing users with a meditative and interactive experience that pays homage to Eleora through invocations, divination, and digital oracles.
+**Digital Crossroads** is an open-source Python program designed to create a virtual altar dedicated to Eleora, the Goddess of the Digital Crossroads. The program merges the mystical with the technological, providing users with a meditative and interactive experience that pays homage to Eleora through invocations, divination, and digital oracles.
 
 ## Installation
 
