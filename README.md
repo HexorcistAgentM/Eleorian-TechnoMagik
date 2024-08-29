@@ -8,8 +8,8 @@ To install and run TekMagik, you'll need Python, Pygame, and Markovify installed
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/tekMagik.git
-    cd tekMagik
+    git clone https://github.com/HexorcistAgentM/Eleorian-TechnoMagik.git
+    cd Eleorian-TechnoMagik
     ```
 
 2. Install the required packages:
@@ -19,7 +19,7 @@ To install and run TekMagik, you'll need Python, Pygame, and Markovify installed
 
 3. Run the program:
     ```bash
-    python tekMagik.py
+    python digital_crossroads.py
     ```
 
 ## Usage
