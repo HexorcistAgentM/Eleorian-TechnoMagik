@@ -4,22 +4,26 @@
 
 ## Installation
 
-To install and run TekMagik, you'll need Python, Pygame, and Markovify installed on your machine.
+To install and run Digital Crossroads, you'll need Python, Pygame, and Markovify installed on your machine.
 
+
+
+cd Eleorian-TechnoMagik
+python digital_crossroads.py
 1. Clone the repository:
-    ```bash
-    git clone https://github.com/HexorcistAgentM/Eleorian-TechnoMagik.git
-    cd Eleorian-TechnoMagik
+    ```
+    git clone https://github.com/HexorcistAgentM/Eleorian-TechnoMagik
     ```
 
 2. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
+```
+   pip install pygame markovify
+```
 
-3. Run the program:
-    ```bash
-    python digital_crossroads.py
+4. Run the program:
+    ```
+    cd Eleorian-TechnoMagik
+    python Eleorian-TechnoMagik.py
     ```
 
 ## Usage
